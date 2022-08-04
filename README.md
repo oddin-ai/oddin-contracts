@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/oddin-ai/oddin-contracts">
     <img src="images/logo.png" alt="Logo" width="260" height="60">
   </a>
 
@@ -16,13 +16,13 @@
   <p align="center">
     Oddin smart contract to check validity of addresses on EVM compaible networks
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/oddin-ai/oddin-contracts"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/oddin-ai/oddin-contracts/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/oddin-ai/oddin-contracts/issues">Request Feature</a>
   </p>
 </div>
 
@@ -59,7 +59,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/oddin-ai/oddin-contracts.git
    ```
 2. Install NPM packages
    ```sh
@@ -75,7 +75,7 @@ This is an example of how to list things you need to use the software and how to
 - [ ] Upgradable Oracle contract
 - [ ] TBD
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/oddin-ai/oddin-contracts/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
