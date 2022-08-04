@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="260" height="60">
   </a>
 
 <h3 align="center">Oddin oracle contract</h3>
@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is used to build and test Calata/Oddin's smart contract writhen in Solidity on top of hardhad framework
+This project is used to build and test Oddin's smart contract writhen in Solidity on top of hardhad framework
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -82,16 +82,16 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/oddin-ai/oddin-contracts.svg?style=for-the-badge
+[contributors-url]: https://github.com/oddin-ai/oddin-contracts/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/oddin-ai/oddin-contracts.svg?style=for-the-badge
+[forks-url]: https://github.com/oddin-ai/oddin-contracts/network/members
+[stars-shield]: https://img.shields.io/github/stars/oddin-ai/oddin-contracts.svg?style=for-the-badge
+[stars-url]: https://github.com/oddin-ai/oddin-contracts/stargazers
+[issues-shield]: https://img.shields.io/github/issues/oddin-ai/oddin-contracts.svg?style=for-the-badge
+[issues-url]: https://github.com/oddin-ai/oddin-contracts/issues
+[license-shield]: https://img.shields.io/github/license/oddin-ai/oddin-contracts.svg?style=for-the-badge
+[license-url]: https://github.com/oddin-ai/oddin-contracts/blob/master/LICENSE.txt
 
 [Typescript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [Typescript-url]: https://www.typescriptlang.org/
